@@ -1,3 +1,4 @@
 <?php
 
-echo 'privet';
+include "config.php";
+include CONTR;
